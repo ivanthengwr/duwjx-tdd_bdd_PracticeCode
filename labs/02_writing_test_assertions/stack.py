@@ -24,3 +24,4 @@ class Stack:
     def is_empty(self) -> bool:
         """Returns True if the stack is empty, otherwise returns False"""
         return len(self.items) == 0
+
